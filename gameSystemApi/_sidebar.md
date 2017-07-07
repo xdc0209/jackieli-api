@@ -1,11 +1,11 @@
 - 游戏概况
-  - [总体趋势-banner数据](/gameBasic/basicTotalTable.md)
-  - [总体趋势-激活注册](/gameBasic/addTable.md)
-  - [总体趋势-活跃](/gameBasic/activeTable.md)
-  - [总体趋势-付费用户追踪](/gameBasic/buyTable.md)
-  - [总体趋势-留存趋势](/gameBasic/retentionTable.md)
-  - [实时统计-实时趋势](/realTime/getRealTimeTrendDataTable.md)
-  - [实时统计-实时累计数据](/realTime/getRealTimeAccumulateDataTable.md)
+  - [总体趋势-banner数据](/gameSystemApi/gameBasic/basicTotalTable.md)
+  - [总体趋势-激活注册](/gameSystemApi/gameBasic/addTable.md)
+  - [总体趋势-活跃](/gameSystemApi/gameBasic/activeTable.md)
+  - [总体趋势-付费用户追踪](/gameSystemApi/gameBasic/buyTable.md)
+  - [总体趋势-留存趋势](/gameSystemApi/gameBasic/retentionTable.md)
+  - [实时统计-实时趋势](/gameSystemApi/realTime/getRealTimeTrendDataTable.md)
+  - [实时统计-实时累计数据](/gameSystemApi/realTime/getRealTimeAccumulateDataTable.md)
 
 - 用户分析
   - [新增玩家-新增玩家](/userAnalysis/selectAddUserTable.md)
